@@ -1,0 +1,67 @@
+{
+  "name": "WeiWatchers network to URL map.",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2021-08-05T08:44:57+00:00",
+  "urls": [
+    {
+      "network": "ethereum",
+      "url": "https://weiwatchers.com/feeds-mainnet.json"
+    },
+    {
+      "network": "xdai",
+      "url": "https://weiwatchers.com/feeds-xdai-mainnet.json"
+    },
+    {
+      "network": "avalanche",
+      "url": "https://weiwatchers.com/feeds-avalanche-mainnet.json"
+    },
+    {
+      "network": "binance smart chain",
+      "url": "https://weiwatchers.com/feeds-bsc-mainnet.json"
+    },
+    {
+      "network": "polygon(matic)",
+      "url": "https://weiwatchers.com/feeds-matic-mainnet.json"
+    },
+    {
+      "network": "huobi heco",
+      "url": "https://weiwatchers.com/feeds-heco-mainnet.json"
+    },
+    {
+      "network": "fantom",
+      "url": "https://weiwatchers.com/feeds-fantom-mainnet.json"
+    },
+    {
+      "network": "arbitrum",
+      "url": "https://weiwatchers.com/feeds-arbitrum-mainnet.json"
+    },
+    {
+      "network": "ethereum kovan testnet",
+      "url": "https://weiwatchers.com/feeds-kovan.json"
+    },
+    {
+      "network": "ethereum rinkeby testnet",
+      "url": "https://weiwatchers.com/feeds-rinkeby.json"
+    },
+    {
+      "network": "binance smart chain testnet",
+      "url": "https://weiwatchers.com/feeds-bsc-testnet.json"
+    },
+    {
+      "network": "polygon(matic) mumbai testnet",
+      "url": "https://weiwatchers.com/feeds-matic-testnet.json"
+    },
+    {
+      "network": "polygon(matic) mumbai testnet",
+      "url": "https://weiwatchers.com/feeds-matic-testnet.json"
+    },
+    {
+      "network": "fantom testnet",
+      "url": "https://weiwatchers.com/feeds-fantom-testnet.json"
+    }
+  ]
+}
