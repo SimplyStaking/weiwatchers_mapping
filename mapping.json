@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "timestamp": "2021-08-05T08:44:57+00:00",
   "urls": [
@@ -50,10 +50,6 @@
     {
       "network": "binance smart chain testnet",
       "url": "https://weiwatchers.com/feeds-bsc-testnet.json"
-    },
-    {
-      "network": "polygon(matic) mumbai testnet",
-      "url": "https://weiwatchers.com/feeds-matic-testnet.json"
     },
     {
       "network": "polygon(matic) mumbai testnet",
