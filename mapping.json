@@ -58,6 +58,10 @@
     {
       "network": "fantom testnet",
       "url": "https://weiwatchers.com/feeds-fantom-testnet.json"
+    },
+    {
+      "network": "optimism mainnet",
+      "url": "https://weiwatchers.com/feeds-ethereum-mainnet-optimism-1.json"
     }
   ]
 }
